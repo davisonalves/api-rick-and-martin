@@ -1,0 +1,22 @@
+{
+  "name": "api-rick-and-martin",
+  "version": "1.0.0",
+  "description": "- Automatizar e validar 2 endpoints da API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davisonalves/api-rick-and-martin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davisonalves/api-rick-and-martin/issues"
+  },
+  "homepage": "https://github.com/davisonalves/api-rick-and-martin#readme",
+  "devDependencies": {
+    "cypress": "^7.5.0"
+  }
+}
